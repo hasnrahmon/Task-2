@@ -1,0 +1,171 @@
+.cc{
+    background-color: rgba(128, 128, 128, 0.692);
+}
+.x{
+    border-radius: 200px;
+    height: 70px;
+    margin: 0 auto;
+    width: 70px;
+    display: flex;
+}
+.xx{
+    margin-left:15px;
+}
+.xxx{
+    
+    border: 1px ridge rgb(182, 175, 175);
+    margin-left: 175px;
+    margin-right: 175px;
+}
+.aa{
+   
+    margin: 0 auto;
+    width: 20px;
+}
+.q ,.m {
+  text-indent: 15px;
+}
+.s,.ss{
+    text-shadow: 15px 15px 8px black;
+}
+.s,.ss,.sss
+{
+    text-align: center;
+    color: rgb(51, 30, 3);
+    font-size: larger;
+    margin: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.qq{
+    display: flex;
+    justify-content: center;
+   
+   
+}
+.z,.zz,.zzz,.zzzz
+{
+    
+    flex-direction: row;
+    width: 175px;
+    height:50px ;
+    justify-content:center;
+    background-color: rgb(24, 108, 185);
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-left: 60px;
+    margin-left:20px ;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.zzzz{
+    margin-right: 20px;
+}
+    
+
+.y,.yy,.yyy,.yyyy
+{
+    color: whitesmoke;
+    text-decoration: none;
+   
+}
+.mm{
+   
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    padding-left: 15px;
+}
+.v,.vv,.vvv{
+    border: 1px solid black;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(24, 108, 185);
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-left:10px ;
+    margin-right: 10px;
+    width: 150px;
+    border-radius: 5px;
+   
+}
+.bbb{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content:center;
+ }
+
+.n,.nn,.nnn{
+    border: 1px solid black;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(24, 108, 185);
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-left:10px ;
+    margin-right: 10px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.ll{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content:center;
+}
+.kk{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.o,.oo,.ooo,.oooo,.ooooo,.oooooo{
+    border: 1px solid black;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(24, 108, 185);
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-left:10px ;
+    margin-right: 10px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.jj{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.e,.ee,.eee,.eeee,.eeeee{
+    border: 1px solid black;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(24, 108, 185);
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-left:10px ;
+    margin-right: 10px;
+    width: 150px;
+    border-radius: 5px;
+}
+.as{
+    text-align: center;
+}
